@@ -1,16 +1,16 @@
 # portfolio
 
-A new Flutter project.
+Description
+This project is a portfolio website developed using Flutter Web, following the Stacked architecture pattern. It is designed to be a fully responsive web application and also supports an Android application build. The website showcases personal projects, skills, experience, and other professional information, providing an elegant and interactive platform for users to explore the portfolio.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Fully Responsive Design: Ensures a seamless experience across various devices, including desktops, tablets, and mobile phones.
+Stacked Architecture: Implements the Stacked architecture pattern for better code organization, scalability, and maintainability.
+Cross-Platform Support: Developed with Flutter, allowing the portfolio to be accessed as a web application and an Android application.
+Interactive UI: Includes animations, transitions, and interactive elements to enhance user engagement.
+Customizable: Easy to update and customize content to reflect the latest projects, skills, and experiences.
+Technologies Used
+Flutter: The primary framework used for development, enabling cross-platform capabilities.
+Stacked Architecture: Used for managing the application's state and business logic.
+Dart: The programming language used with Flutter.
+Responsive Design: Utilizes media queries and flexible layouts to ensure responsiveness.
